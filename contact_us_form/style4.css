@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    border: border-box;
+}
+.form{
+    height: 750px;
+    width: 100%;
+    background-color: #8db7a5;
+    box-shadow: 5px 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.template{
+    width: 75%;
+    height: 550px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    display: flex;
+    padding-top: 40px;
+
+}
+.baby-template{
+    margin-left: 80px;
+    padding-top: 40px;
+}
+.address{
+    padding-top: 30px;
+}
+.icon{
+    padding-left: 30px;
+    color: rgb(64, 39, 129);
+    font-size: 1.6rem;
+}
+.add{
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: cursive;
+}
+.norwich{
+    font-size: 1.2rem;
+}
+.call{
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: cursive;
+}
+.number{
+    font-size: 1.2rem;
+}
+.text{
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: cursive;
+}
+.raza{
+    font-size: 1.2rem;
+}
+
+/*------CREATING LINE ---*/
+.line{
+    border-left: 2px solid black;
+    height: 350px;
+    left: 31%;
+    top: 200px;
+    position: absolute;
+}
+/*------FORM SECTION---*/
+
+.last-part{
+    margin-left: 100px;
+    padding-top: 60px;
+}
+.us{
+    font-size: 1.6rem;
+    font-weight: bold;
+    font-family: cursive;
+    color: rgb(64, 39, 129);
+}
+.if{
+    font-size: 1.2rem;
+    padding: 5px;
+}
+.name{
+    width: 100%;
+    height: 33px;
+    font-size: large;
+}
+.msg{
+    width: 100%;
+    height: 33px;
+    font-size: large;
+}
+button{
+    background-color: rgb(64, 39, 129);
+    color: white;
+    height: 40px;
+    width: 80px;
+    cursor: pointer;
+}
+.box p {
+    padding: 10px;
+}
+.my-name{
+    height: 70%;
+    width: 30%;
+    margin-top: 165px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    font-size: 1.3rem;
+    color: rgb(64, 39, 129);
+    font-family: cursive;
+}
+
+
